@@ -1,0 +1,68 @@
+.container {
+	width: 100%;
+}
+
+.navbar {
+	font-family: 'Lato', sans-serif;
+	font-weight: 900;
+}
+
+.navbar-nav {
+	text-align: right;
+}
+
+.navbar-light .navbar-brand {
+	background-color: #7b9d7b;
+	padding: 10px 10px 10px 10px;
+}
+
+.body {
+	padding: 20px 20px 20px 20px;
+	background-color: #d9dcd6;
+	color: #5e6c7a;
+	font-family: 'Lato', sans-serif;
+}
+
+
+h1 {
+	margin: 10px;
+	padding: 20px;
+	color: #7b9d7b;
+	font-family: 'Lato', sans-serif;
+	font-weight: 900;
+}
+
+.headshot img {
+	width: 100%;
+	max-width: 300px;
+	height: auto;
+}
+
+.portfolio-item {
+	padding: 10px 5px 5px 5px;
+}
+
+.portfolio-img img {
+	width: 100%;
+	max-width: 200px;
+	height: auto;
+}
+
+.portfolio-title {
+	width: 100%;
+	max-width: 200px;
+	background-color: #688686;
+	color: #fff;
+	text-align: center;
+}
+
+#sticky-footer {
+	flex-shrink: 0;
+	display: block;
+	padding: 20px 10px 10px 10px;
+	background-color: #5e6c7a;
+	font-family: 'Lato', sans-serif;
+	font-size: small;
+	text-align: center;
+	color: #fff;
+}
