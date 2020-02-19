@@ -7,8 +7,8 @@
 	font-weight: 900;
 }
 
-.navbar-nav {
-	text-align: right;
+.navbar-collapse {
+	justify-content: flex-end;
 }
 
 .navbar-light .navbar-brand {
