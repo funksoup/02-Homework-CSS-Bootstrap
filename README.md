@@ -1,73 +1,52 @@
-# Unit 02 CSS and Bootstrap Homework: Responsive Portfolio
+# Unit 02 CSS and Bootstrap: Responsive Portfolio
 
-Responsive design ensures that web applications render well on a variety of devices and window or screen sizes. As a developer, you will likely be asked to create a mobile-first application or add responsive design to an existing application. 
-
-
-## Directions
-
-First, you will use the Bootstrap CSS Framework to recreate your portfolio. How do you deliver this? Here are some guidelines:
-
-* Create the following pages: `index.html`, `portfolio.html` and `contact.html`.
-
-* Using Bootstrap, recreate your portfolio site with the following items:
-
-   * A navbar
-
-   * A responsive layout
-
-   * Responsive images
-
-* The Bootstrap portfolio should minimize the use of media queries.
+Responsive portfolio template with home, portfolio and contact pages, featuring a monochromatic color palette and thumbnail portfolio images that link to external pages.
 
 
-### Hints
 
-* Use Bootstrap's grid system (containers, rows, and columns).
+## Tech/Framework Used
 
-* On an `xs` screen, content should take up the entire screen. On `sm` and larger screens, you should have some margins on the left and right sides of the screen. Check out various sites on your mobile device vs. your computer to see examples of these differences.
+* Bootstrap 4.4.1
 
-
-### Minimum Requirements
-
-* Functional, deployed application
-
-* GitHub repository with README describing the project
+* JavaScript
 
 
-### Bonus
 
-* Using Bootstrap, make a sticky footer and use sub-rows and sub-columns on your portfolio site (**Hint:** Check out the Bootstrap documentation).
+## Usage
 
+The following images demonstrate the application functionality:
 
-## Commit Early and Often
+* Desktop screenshots
 
-One of the most important skills to master as a web developer is version control. Building the habit of committing via Git is important for two reasons:
+![responsive portfolio site demo 1](./Assets/desktop_about.png)
+![responsive portfolio site demo 2](./Assets/desktop_portfolio.png)
+![responsive portfolio site demo 3](./Assets/desktop_contact.png) 
 
-* Your commit history is a signal to employers that you are actively working on projects and learning new skills.
+* Mobile screenshots
 
-* Your commit history allows you to revert your codebase in the event that you need to return to a previous state.
-
-Follow these guidelines for committing:
-
-* Make single-purpose commits for related changes to ensure a clean, manageable history. If you are fixing two issues, make two commits.
-
-* Write descriptive, meaningful commit messages so that you and anyone else looking at your repository can easily understand its history.
-
-* Don't commit half-done work, for the sake of your collaborators (and your future self!).
-
-* Test your application before you commit to ensure functionality at every step in the development process.
-
-We would like you to have well over 200 commits by graduation, so commit early and often!
+![responsive portfolio site demo 1](./Assets/m_about.png)
+![responsive portfolio site demo 2](./Assets/m_portfolio.png)
+![responsive portfolio site demo 3](./Assets/m_contact.png) 
 
 
-## Submission on BCS
 
-You are required to submit the following:
+## Contributing
 
-* The URLs of the deployed applications
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
-* The URLs of the GitHub repositories
+### Step 1
 
-- - -
+* Option 1:🍴 Fork this repo!
 
-© 2019 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
+* Option 2: 👯 Clone this repo to your local machine using https://github.com/funksoup/02-Homework-CSS-Bootstrap.git
+
+### Step 2
+
+* HACK AWAY! 🔨🔨🔨
+
+### Step 3
+
+* 🔃 Create a new pull request using https://github.com/funksoup/02-Homework-CSS-Bootstrap/compare
+
+
+
