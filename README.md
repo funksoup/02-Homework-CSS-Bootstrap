@@ -18,19 +18,15 @@ The following images demonstrate the application functionality:
 
 * Desktop screenshots
 
-![responsive portfolio site demo 1](./Assets/Images/desktop_about.png)
-![responsive portfolio site demo 2](./Assets/Images/desktop_portfolio.png)
-![responsive portfolio site demo 3](./Assets/Images/desktop_contact.png) 
+<img src="./Assets/Images/desktop_about.png" alt="about page (desktop)"/>
+<img src="./Assets/Images/desktop_portfolio.png" alt="portfolio page (desktop)"/>
+<img src="./Assets/Images/desktop_contact.png" alt="contact page (desktop)"/>
 
 * Mobile screenshots
 
 <img src="./Assets/Images/m_about.png" alt="about page (mobile)" width="300"/>
 <img src="./Assets/Images/m_portfolio.png" alt="portfolio page (mobile)" width="300"/>
 <img src="./Assets/Images/m_contact.png" alt="contact page (mobile)" width="300"/>
-
-<!-- ![responsive portfolio site demo 1](./Assets/Images/m_about.png)
-![responsive portfolio site demo 2](./Assets/Images/m_portfolio.png)
-![responsive portfolio site demo 3](./Assets/Images/m_contact.png)  -->
 
 
 
